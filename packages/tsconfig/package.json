@@ -1,0 +1,26 @@
+{
+  "name": "@marcobiedermann/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared tsconfig for my projects",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcobiedermann/linter.git",
+    "directory": "packages/tsconfig"
+  },
+  "keywords": [
+    "config",
+    "configuration",
+    "ts",
+    "tsconfig",
+    "typescript"
+  ],
+  "author": "Marco Biedermann",
+  "license": "MIT",
+  "peerDependencies": {
+    "typescript": "^4.0.0"
+  }
+}

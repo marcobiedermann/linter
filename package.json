@@ -26,6 +26,7 @@
     "lerna": "^3.22.1"
   },
   "dependencies": {
-    "@marcobiedermann/prettier-config": "file:packages/prettier-config"
+    "@marcobiedermann/prettier-config": "file:packages/prettier-config",
+    "@marcobiedermann/tsconfig": "file:packages/tsconfig"
   }
 }
