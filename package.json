@@ -1,0 +1,28 @@
+{
+  "name": "@marcobiedermann/linter",
+  "description": "Shared configs for my projects",
+  "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap --hoist",
+    "postinstall": "npm run bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcobiedermann/linter.git"
+  },
+  "keywords": [
+    "config",
+    "format",
+    "linter",
+    "style"
+  ],
+  "author": "Marco Biedermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcobiedermann/linter/issues"
+  },
+  "homepage": "https://github.com/marcobiedermann/linter#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
