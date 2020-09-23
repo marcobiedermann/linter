@@ -1,5 +1,7 @@
 # @marcobiedermann/prettier-config
 
+[![peerDependencies Status](https://david-dm.org/marcobiedermann/linter/peer-status.svg?path=packages/prettier-config)](https://david-dm.org/marcobiedermann/linter?path=packages/prettier-config&type=peer)
+
 Shared [Prettier](https://prettier.io/) config for my projects
 
 ## Install

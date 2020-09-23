@@ -1,5 +1,7 @@
 # @marcobiedermann/tsconfig
 
+[![peerDependencies Status](https://david-dm.org/marcobiedermann/linter/peer-status.svg?path=packages/tsconfig)](https://david-dm.org/marcobiedermann/linter?path=packages/tsconfig&type=peer)
+
 Shared [`tsconfig`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) for my projects.
 
 ## Install
