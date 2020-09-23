@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap --hoist",
+    "format": "prettier --write .",
     "postinstall": "npm run bootstrap"
   },
   "repository": {
@@ -23,10 +24,14 @@
   },
   "homepage": "https://github.com/marcobiedermann/linter#readme",
   "devDependencies": {
-    "lerna": "^3.22.1"
+    "husky": "^4.3.0",
+    "lerna": "^3.22.1",
+    "prettier": "^2.1.2",
+    "pretty-quick": "^3.0.2"
   },
   "dependencies": {
     "@marcobiedermann/prettier-config": "file:packages/prettier-config",
     "@marcobiedermann/tsconfig": "file:packages/tsconfig"
-  }
+  },
+  "prettier": "@marcobiedermann/prettier-config"
 }
