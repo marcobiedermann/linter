@@ -24,5 +24,8 @@
   "homepage": "https://github.com/marcobiedermann/linter#readme",
   "devDependencies": {
     "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "@marcobiedermann/prettier-config": "file:packages/prettier-config"
   }
 }
