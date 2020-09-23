@@ -1,0 +1,34 @@
+{
+  "name": "@marcobiedermann/stylelint-config",
+  "version": "1.0.0",
+  "description": "Shared stylelint config for my projects",
+  "main": ".stylelintrc",
+  "files": [
+    ".stylelintrc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcobiedermann/linter.git",
+    "directory": "packages/stylelint-config"
+  },
+  "keywords": [
+    "config",
+    "css",
+    "format",
+    "linter",
+    "linting",
+    "style",
+    "stylelint",
+    "stylelint-config"
+  ],
+  "author": "Marco Biedermann",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.0.0"
+  }
+}

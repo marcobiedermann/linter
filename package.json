@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "@marcobiedermann/prettier-config": "file:packages/prettier-config",
+    "@marcobiedermann/stylelint-config": "file:packages/stylelint-config",
     "@marcobiedermann/tsconfig": "file:packages/tsconfig"
   },
   "prettier": "@marcobiedermann/prettier-config"
