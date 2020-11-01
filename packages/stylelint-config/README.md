@@ -3,7 +3,7 @@
 [![dependencies Status](https://david-dm.org/marcobiedermann/linter/status.svg?path=packages/stylelint-config)](https://david-dm.org/marcobiedermann/linter?path=packages/stylelint-config)
 [![peerDependencies Status](https://david-dm.org/marcobiedermann/linter/peer-status.svg?path=packages/stylelint-config)](https://david-dm.org/marcobiedermann/linter?path=packages/stylelint-config&type=peer)
 
-Shared [stylelint](https://stylelint.io/) config for my projects
+Shared [stylelint](https://stylelint.io/) config for my projects.
 
 ## Install
 
