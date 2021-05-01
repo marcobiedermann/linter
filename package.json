@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/marcobiedermann/linter#readme",
   "devDependencies": {
-    "husky": "^4.3.0",
+    "husky": "^6.0.0",
     "lerna": "^3.22.1",
     "prettier": "^2.1.2",
     "pretty-quick": "^3.0.2"
